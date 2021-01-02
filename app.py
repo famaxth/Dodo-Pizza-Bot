@@ -1,3 +1,9 @@
+
+
+#Production by Berlin
+#Telegram - @por0vos1k
+
+
 # - *- coding: utf- 8 - *-
 
 import telebot
