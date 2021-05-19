@@ -1,10 +1,8 @@
-
+# - *- coding: utf- 8 - *-
 
 #Production by Berlin
 #Telegram - @por0vos1k
 
-
-# - *- coding: utf- 8 - *-
 
 import telebot
 import time
@@ -104,6 +102,6 @@ def send(message):
 
 
 
-#Запуск бота
+#Start Bot
 if __name__ == '__main__':
     bot.polling(none_stop=True)
