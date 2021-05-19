@@ -1,4 +1,3 @@
 token = "text"
-admin_id = 'text'
-secret_code = "/liu4eg7hok"
+admin_id = "text"
 buyer1 = 123456789
