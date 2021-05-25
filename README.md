@@ -9,6 +9,6 @@ Pizza bot is a project created by me to demonstrate the work of such services in
 
 ## How to use
 * Install the script
-* Edit TOKEN in file Echo-Bot.py
+* Edit `token` and `admin_id` in config.py
 * [Download Telegram](https://desktop.telegram.org/)
 * Launch the bot!
